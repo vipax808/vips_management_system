@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892416487815",
+    "project_id": "vips-management-system",
+    "storage_bucket": "vips-management-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892416487815:android:27aafc6b0e7baf983de322",
+        "android_client_info": {
+          "package_name": "com.example.vips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892416487815-md47jl0bheavrnf8ak3ng5sjij89h7gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgNi-EEi-Mn1qXR7ruzx-TcixS-VoK30U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892416487815-drr6f545siu0oen5jce8jfenc29hqtol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
